@@ -1,65 +1,70 @@
-<div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=timeGradient&height=250&section=header&text=Hi%20there!%20I'm%20Kavan%20Patel%20%F0%9F%91%8B&fontSize=60&animation=fadeIn" width="100%"/>
-</div>
+# Kavan Patel
+### Software Developer | ML Enthusiast | Quant Finance
 
-<h3 align="center">👨‍💻 About Me</h3>
-<p align="center">
-  <em>A passionate software developer creating high-quality, modern applications.</em><br>
-  I'm constantly learning, building, and solving complex problems. I enjoy working on deep learning models, high-performance web applications, and full-stack projects.
-</p>
+![Header](https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=200&section=header&text=Kavan%20Patel&fontSize=70&fontColor=fff&animation=twinkling&fontAlignY=35&desc=Software%20Developer%20|%20ML%20Enthusiast%20|%20Quant%20Finance&descAlignY=60&descSize=18)
 
-<table align="center">
-  <tr>
-    <td align="center" width="96">
-      <a href="https://linkedin.com/in/kavanpatell">
-        <img src="https://skillicons.dev/icons?i=linkedin" width="48" height="48" alt="LinkedIn" />
-      </a>
-    </td>
-    <td align="center" width="96">
-      <a href="mailto:kavanpatel1809@gmail.com">
-        <img src="https://skillicons.dev/icons?i=gmail" width="48" height="48" alt="Email" />
-      </a>
-    </td>
-  </tr>
-</table>
+---
 
-### 🛠️ Languages and Tools
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=py,js,java,c,cpp,html,css,react,next,nodejs,express,mysql,postgres,mongodb,git,github,docker,gcp,tensorflow,pytorch" />
-</p>
+## About Me
 
-### 📈 GitHub Stats
-<p align="center">
-  <a href="https://github.com/kavanpatel18">
-    <img src="https://github-readme-stats.vercel.app/api?username=kavanpatel18&show_icons=true&title_color=fff&icon_color=79ff97&text_color=9f9f9f&bg_color=151515&hide_border=true&theme=omni" width="48%" />
-  </a>
-  <a href="https://github.com/kavanpatel18">
-    <img src="https://github-readme-streak-stats.herokuapp.com/?user=kavanpatel18&theme=omni&hide_border=true&background=151515" width="48%" />
-  </a>
-</p>
-<p align="center">
-  <a href="https://github.com/kavanpatel18">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=kavanpatel18&layout=compact&theme=omni&hide_border=true&bg_color=151515" />
-  </a>
-</p>
+I'm a passionate Software Developer and ML Engineer focused on applying deep learning to financial markets and building production-grade agentic AI systems.
 
-### ✨ Featured Projects
-<table align="center">
-  <tr>
-    <td align="center">
-      <a href="https://github.com/kavanpatel18/flashguard-api">
-        <img src="https://github-readme-stats.vercel.app/api/pin/?username=kavanpatel18&repo=flashguard-api&theme=omni&hide_border=true&bg_color=151515" />
-      </a>
-    </td>
-    <td align="center">
-      <a href="https://github.com/kavanpatel18/Employee-Payroll-Management-System">
-        <img src="https://github-readme-stats.vercel.app/api/pin/?username=kavanpatel18&repo=Employee-Payroll-Management-System&theme=omni&hide_border=true&bg_color=151515" />
-      </a>
-    </td>
-  </tr>
-</table>
+- Currently building FlashGuard -- a real-time flash crash predictor for NSE/BSE using GRU + Attention models
+- - Exploring Agentic AI workflows and trading forensics with TradeGuard AI
+  - - Deepening expertise in Advanced Deep Learning, Quantitative Finance, and Cloud Infrastructure
+    - - Ask me about Python, Java, Deep Learning, or Full-Stack Architecture
+      - - Reach me at: kavanpatel1809@gmail.com
+        - - Fun fact: I enjoy solving DSA problems -- check my LeetCode below!
+         
+          - ---
 
-<br>
-<div align="center">
-  <img src="https://visitcount.itsvg.in/api?id=kavanpatel18&icon=5&color=0" />
-</div>
+          ## Connect with Me
+
+          - [LinkedIn](https://linkedin.com/in/kavanpatell)
+          - - [Gmail](mailto:kavanpatel1809@gmail.com)
+            - - [LeetCode](https://leetcode.com/u/kavanpatel18/)
+             
+              - ---
+
+              ## Tech Stack
+
+              ### Languages
+              Python, Java, C++, JavaScript, C, SQL
+
+              ### AI / ML
+              TensorFlow, PyTorch, Keras, Scikit-Learn
+
+              ### Web and Frameworks
+              React, Next.js, Flask, Django, Node.js
+
+              ### Databases and DevOps
+              PostgreSQL, MySQL, MongoDB, Docker, AWS, GCP, Git
+
+              ---
+
+              ## GitHub Stats
+              ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=kavanpatel18&show_icons=true&theme=tokyonight&count_private=true&hide_border=true)
+              ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=kavanpatel18&layout=compact&theme=tokyonight&hide_border=true)
+              ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=kavanpatel18&theme=tokyonight&hide_border=true)
+
+              ---
+
+              ## LeetCode Stats
+              [![LeetCode Stats Card](https://leetcard.jacoblin.cool/kavanpatel18?theme=dark&font=Fira+Code&ext=activity&border=0)](https://leetcode.com/u/kavanpatel18/)
+
+              ---
+
+              ## Featured Projects
+
+              | Project | Description | Tech |
+              |--------|-------------|------|
+              | [FlashGuard API](https://github.com/kavanpatel18/flashguard-api) | Real-time flash crash predictor for NSE/BSE markets | Python, GRU, Attention, Flask |
+              | [TradeGuard AI](https://github.com/kavanpatel18/tradeguard-ai-prototype) | Agentic Trading Forensics prototype | Python, Agentic AI |
+              | [Supervised ML Techniques](https://github.com/kavanpatel18/supervised-ml-techniques) | Implementations of core supervised learning algorithms | Python, Scikit-learn |
+              | [Employee Payroll System](https://github.com/kavanpatel18/employee-payroll-management-system) | Full-featured payroll management application | Java, MySQL |
+
+              ---
+              ![Profile Views](https://komarev.com/ghpvc/?username=kavanpatel18&color=6E40C9&style=for-the-badge&label=PROFILE+VIEWS)
+
+              ![Footer](https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=100&section=footer)
+              
